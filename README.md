@@ -8,7 +8,8 @@
 ---
 
 ## 🧠 About Me
-```js
+
+```javascript
 const haroon = {
   role: "Full Stack Web Developer",
   certifications: ["Certiport"],
@@ -37,9 +38,9 @@ const haroon = {
 python
 Copy code
 projects = [
-  "Full Stack Web Applications",
-  "Python Automation & Backend Systems",
-  "AI & Machine Learning Practice Projects"
+    "Full Stack Web Applications",
+    "Python Automation & Backend Systems",
+    "AI & Machine Learning Practice Projects"
 ]
 ➡️ Explore my repositories to see real implementations and clean code practices.
 
@@ -64,12 +65,26 @@ Copy code
 
 ---
 
-### 🔥 Next Level?
-I can:
-- Add **GitHub stats & streak cards**
-- Make it **job-ready for recruiters**
-- Customize for **AI / Python / Full Stack focus**
-- Add **animated typing text**
+## 🔑 **Important Rule (Yaad Rakho)**
+- Code ke liye hamesha **3 backticks ```** use karo
+- Language likho (`javascript`, `python`) → syntax highlighting aati hai
+- Backticks open aur close **same jagah** hone chahiye
+
+---
+
+Agar chaho to next step me main:
+- 🔥 **Animated typing text**
+- 📊 **GitHub stats & streak**
+- 🧲 **Recruiter-ready version**
+- 🤖 **AI-focused portfolio look**
+
+Bas bolo kya add karein 😎🚀
+
+
+
+
+
+
 
 
 
