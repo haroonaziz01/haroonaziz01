@@ -1,90 +1,80 @@
-# 👋 Hi, I'm Haroon Aziz
+<h1 align="center">Hi 👋, I'm Haroon Aziz</h1>
+<h3 align="center">🚀 Full Stack Web Developer | Certiport Certified | Python Professional | AI Learner</h3>
 
-🚀 **Full Stack Web Developer | Certiport Certified | Python Professional | AI Learner**
-
-Welcome to my GitHub profile!  
-I am a **results-driven Full Stack Web Developer** with hands-on experience in building **modern, scalable, and user-focused web applications**. I have a strong background in **Python development** and I am actively exploring **Artificial Intelligence and Machine Learning** to build smarter solutions.
-
----
-
-## 🔥 Professional Summary
-- ✅ **Certiport Certified Full Stack Web Developer**
-- 🐍 **Python Professional** with practical project experience
-- 🤖 **AI & Machine Learning Learner**
-- 🌐 Strong understanding of **frontend, backend, and databases**
-- 🚀 Passionate about clean code, performance, and real-world problem solving
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
+```js
+const haroon = {
+  role: "Full Stack Web Developer",
+  certifications: ["Certiport"],
+  languages: ["JavaScript", "Python"],
+  interests: ["AI", "Machine Learning", "Web Technologies"],
+  mindset: "Always Learning 🚀"
+};
+💻 Professional Full Stack Web Developer
 
-### 🌐 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- Responsive Design
-- Bootstrap / Tailwind CSS
-- React.js (if applicable)
+🐍 Python Professional with real-world experience
 
-### ⚙️ Backend
-- Python (Flask / Django)
-- Node.js & Express (if applicable)
-- RESTful APIs
-- Authentication & Authorization
+🤖 AI & Machine Learning Learner
 
-### 🗄️ Databases
-- MySQL
-- PostgreSQL
-- MongoDB
+🌐 Love building scalable, clean, and modern web apps
 
-### 🤖 AI & Data
-- Python for AI
-- NumPy, Pandas
-- Machine Learning Fundamentals
-- Data Analysis Basics
+🛠️ Tech Stack
+🌐 Frontend
+<p> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" /> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" /> </p>
+⚙️ Backend
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" /> <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" /> </p>
+🗄️ Database
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" /> </p>
+🤖 AI & Data
+<p> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" /> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" /> </p>
+📌 Featured Work
+python
+Copy code
+projects = [
+  "Full Stack Web Applications",
+  "Python Automation & Backend Systems",
+  "AI & Machine Learning Practice Projects"
+]
+➡️ Explore my repositories to see real implementations and clean code practices.
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
-- Linux / Windows
-- Deployment Basics (GitHub Pages, etc.)
+📈 Currently Learning
+Advanced Full Stack Architecture
 
----
+AI Models & Data Analysis
 
-## 📌 Featured Projects
-🔹 **Full Stack Web Applications**  
-End-to-end web solutions with frontend, backend, and database integration.
+Scalable Backend Systems
 
-🔹 **Python Projects**  
-Automation, data handling, and backend logic using Python.
+Real-World Problem Solving
 
-🔹 **AI Learning Projects**  
-Hands-on practice with machine learning models and data analysis.
+🤝 Connect With Me
+<p> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /> </a> </p>
+⚡ Developer Quote
+"Good code works. Great code scales."
 
-👉 Explore my repositories to see complete project details.
+⭐ If you like my work, consider starring my repositories!
 
----
-
-## 📈 Currently Working On
-- Advanced Full Stack Development  
-- AI & Machine Learning Projects  
-- Scalable Backend Architectures  
-- Real-World Problem Solving with Python  
-
----
-
-## 🎯 Career Goal
-To work as a **professional Full Stack Developer / Python Engineer**, contributing to innovative projects while growing in **AI and intelligent systems development**.
+yaml
+Copy code
 
 ---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: *www.linkedin.com/in/khawaja-haroon*
-- 📧 Email: *hroonaziz2030@gmail.com*
+### 🔥 Next Level?
+I can:
+- Add **GitHub stats & streak cards**
+- Make it **job-ready for recruiters**
+- Customize for **AI / Python / Full Stack focus**
+- Add **animated typing text**
 
----
 
-## ⭐ GitHub Philosophy
-> *"Code is not just written to work, but to scale, perform, and solve real problems."*
 
-Thanks for visiting my GitHub portfolio!  
-Feel free to explore, star ⭐ repositories, or collaborate.
+
+
+
+
+
