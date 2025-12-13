@@ -2,36 +2,23 @@
 <h3 align="center">🚀 Full Stack Web Developer | Certiport Certified | Python Professional | AI Learner</h3>
 
 <p align="center">
-I build scalable web applications, automate workflows, and explore intelligent systems.
+Crafting modern, scalable, and intelligent web solutions.
 </p>
 
 ---
 
 ## ✨ About Me
-I am a **Certiport Certified Full Stack Web Developer** with professional experience in building **modern, scalable, and secure web applications**.  
-I specialize in **Python-based backend development**, **automation solutions**, and I am actively learning **Artificial Intelligence & Machine Learning** to create smart and efficient systems.
+I am a **Certiport Certified Full Stack Web Developer** with strong hands-on experience in building **end-to-end web applications**.  
+I professionally work with **Python** and I am actively exploring **Artificial Intelligence & Machine Learning** to create future-ready systems.
 
 ---
 
 ## 💎 What I Do
-- 🌐 Develop **end-to-end full stack web applications**
-- ⚙️ Build **secure, scalable backend systems**
+- 🌐 Build **scalable and responsive full stack web applications**
+- ⚙️ Develop **secure and efficient backend systems**
 - 🐍 Work professionally with **Python**
-- 🤖 Design **automation scripts & workflows** to save time and improve efficiency
-- 🔁 Implement **process automation & CI/CD basics**
-- 🧠 Focus on **clean architecture, performance, and best practices**
-
----
-
-## 🤖 Automation Expertise
-- 🔧 Python Automation Scripts  
-- 📂 File & Data Processing Automation  
-- 🌐 Web Automation & API Integration  
-- 🔁 Workflow Automation  
-- 🚀 Deployment & Task Automation  
-- ⚙️ CI/CD Fundamentals  
-
-Automation helps me **reduce manual work**, **increase reliability**, and **speed up development cycles**.
+- 🤖 Learn and apply **AI & Machine Learning concepts**
+- 🧠 Focus on **clean code, performance, and best practices**
 
 ---
 
@@ -52,31 +39,30 @@ MySQL · MongoDB · PostgreSQL
 Python for AI · NumPy · Pandas  
 Machine Learning Fundamentals  
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 Git & GitHub · VS Code · Postman  
-Linux · Windows · Automation Tools  
+Linux · Windows  
 
 ---
 
 ## 📌 Featured Work
 - 🚀 Full Stack Web Applications  
-- 🤖 Python Automation & Backend Systems  
-- 🧠 AI & Machine Learning Practice Projects  
+- 🐍 Python Backend & Automation Projects  
+- 🤖 AI & Machine Learning Practice Projects  
 
-👉 Explore my repositories to see **real-world implementations, automation logic, and clean architecture**.
+👉 Explore my repositories to see **real-world implementations and clean architecture**.
 
 ---
 
 ## 📈 Currently Improving
 - Advanced Full Stack Architecture  
-- Automation & CI/CD Workflows  
 - AI Models & Data Analysis  
-- Scalable & Secure Systems  
+- Scalable & Secure Backend Systems  
 
 ---
 
 ## 🎯 Career Vision
-To work as a **Full Stack Developer / Python Automation Engineer**, building **smart, automated, and intelligent solutions** while growing in **AI-driven development**.
+To grow as a **professional Full Stack Developer & Python Engineer**, contributing to impactful projects while advancing in **AI and intelligent systems development**.
 
 ---
 
@@ -87,6 +73,6 @@ To work as a **Full Stack Developer / Python Automation Engineer**, building **s
 ---
 
 ## 🌟 Final Note
-> **“Automation turns good systems into great ones.”**
+> **“Great developers don’t just write code — they build solutions.”**
 
 ⭐ Thanks for visiting my GitHub profile!
