@@ -2,21 +2,22 @@
 <h3 align="center">🚀 Full Stack Web Developer | Certiport Certified | Python Professional | AI Learner</h3>
 
 <p align="center">
-Building modern web applications with passion, performance, and purpose.
+Crafting modern, scalable, and intelligent web solutions.
 </p>
 
 ---
 
 ## ✨ About Me
-I am a **Certiport Certified Full Stack Web Developer** with strong hands-on experience in **frontend, backend, and database development**.  
-I work professionally with **Python** and I am actively learning **Artificial Intelligence & Machine Learning** to build smarter and future-ready solutions.
+I am a **Certiport Certified Full Stack Web Developer** with strong hands-on experience in building **end-to-end web applications**.  
+I professionally work with **Python** and I am actively exploring **Artificial Intelligence & Machine Learning** to create future-ready systems.
 
 ---
 
-## 💎 What I Do Best
-- 🌐 Design and develop **scalable full stack web applications**
-- ⚙️ Build **robust backend systems** using Python
-- 🤖 Explore **AI & Machine Learning** for intelligent solutions
+## 💎 What I Do
+- 🌐 Build **scalable and responsive full stack web applications**
+- ⚙️ Develop **secure and efficient backend systems**
+- 🐍 Work professionally with **Python**
+- 🤖 Learn and apply **AI & Machine Learning concepts**
 - 🧠 Focus on **clean code, performance, and best practices**
 
 ---
@@ -25,7 +26,7 @@ I work professionally with **Python** and I am actively learning **Artificial In
 
 ### 🌐 Frontend
 HTML5 · CSS3 · JavaScript · React  
-Bootstrap · Tailwind CSS · Responsive UI  
+Bootstrap · Tailwind CSS · Responsive Design  
 
 ### ⚙️ Backend
 Python · Django · Flask · Node.js  
@@ -66,8 +67,8 @@ To grow as a **professional Full Stack Developer & Python Engineer**, contributi
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: *(Add your LinkedIn here)*  
-- 📧 Email: *(Add your email here)*  
+- 💼 LinkedIn: [Khawaja Haroon](https://www.linkedin.com/in/khawaja-haroon)
+- 📧 Email: [hroonaziz2030@gmail.com](mailto:hroonaziz2030@gmail.com)
 
 ---
 
