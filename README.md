@@ -78,8 +78,9 @@ To work as a **professional Full Stack Developer / Python Engineer**, contributi
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 📧 Email: *(Add your professional email here)*
+- 💼 LinkedIn: *www.linkedin.com/in/
+khawaja-haroon*
+- 📧 Email: *hroonaziz2030@gmail.com*
 
 ---
 
